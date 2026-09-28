@@ -7,5 +7,6 @@ cache/
 *.fdb_latexmk
 *.out
 *.synctex.gz
+*.pptx
 
-
+pics/
