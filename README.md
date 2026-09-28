@@ -32,11 +32,6 @@ in the paper.
 
 ## 2. Quick start
 
-The project directory of this repository is **bind mounted** inside the
-`ml-workspace` container at
-`/workspace/copybook/WebSearch/wiki_graph_explorer`, so no `docker cp` is
-needed - the files you edit on the host are the files the container runs.
-
 ```bash
 git clone https://github.com/neF1anders/web-measures.git
 cd wiki_graph_explorer/
